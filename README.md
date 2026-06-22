@@ -17,3 +17,4 @@ This is where I track my daily progress learning Python.
 * `1.3-operators.ipynb` - My notebook covering common operators: arithmetic, comparison, logical, and bitwise examples.
 * `Conditionalstatements.ipynb` - My notebook covering conditional statements and flow control (if, elif, else).
 * `if_else_complex_practice_problems.ipynb` - My practice notebook covering Python conditional statements (if, elif, else).
+* `loops.ipynb` - My notebook covering loop constructs: `for`, `while`, nested loops, and loop control statements (`break`, `continue`, `pass`).
