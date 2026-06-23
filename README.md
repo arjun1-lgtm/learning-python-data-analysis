@@ -18,3 +18,4 @@ This is where I track my daily progress learning Python.
 * `Conditionalstatements.ipynb` - My notebook covering conditional statements and flow control (if, elif, else).
 * `if_else_complex_practice_problems.ipynb` - My practice notebook covering Python conditional statements (if, elif, else).
 * `loops.ipynb` - My notebook covering loop constructs: `for`, `while`, nested loops, and loop control statements (`break`, `continue`, `pass`).
+`loops_practice question.ipynb` - This notebook contains easy and medium level questions on loops ehich i searched online eand tried to solve myself 
