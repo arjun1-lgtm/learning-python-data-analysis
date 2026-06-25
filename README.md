@@ -24,3 +24,4 @@ This is where I track my daily progress learning Python.
 * `3.2-Tuples.ipynb` - This notebook contains all i learned for tuples , one thing totally new was  packing and unpacking.
 * `tuples_practice_questions.ipynb` - This notebook contains  questions i practiced on tuples, i asked them from Ai and did them without answer .
 * `3.3-Sets.ipynb`- This notebook contains things like set functions , definition etc that i learned about set.
+* `sets_practice.ipynb`- This notebook contains questions i practiced on sets 
