@@ -18,8 +18,9 @@ This is where I track my daily progress learning Python.
 * `Conditionalstatements.ipynb` - My notebook covering conditional statements and flow control (if, elif, else).
 * `if_else_complex_practice_problems.ipynb` - My practice notebook covering Python conditional statements (if, elif, else).
 * `loops.ipynb` - My notebook covering loop constructs: `for`, `while`, nested loops, and loop control statements (`break`, `continue`, `pass`).
-* `loops_practice question.ipynb` - This notebook contains easy and medium level questions on loops ehich i searched online eand tried to solve myself 
+* `loops_practice question.ipynb` - This notebook contains easy and medium level questions on loops ehich i searched online eand tried to solve myself .
 * `3.1-Lists.ipynb` - This notebook consists of everything needed to learn for python.
-* `lists_practice.ipynb` - This notebook contains questions i practiced on list after asking it from AI that were good and without solutions and i soved most of them myself 
-* `3.2-Tuples.ipynb` - This notebook contains all i learned for tuples , one thing totally new was  packing and unpacking
-* `tuples_practice_questions.ipynb` - This notebook contains  questions i practiced on tuples, i asked them from Ai and did them without answer 
+* `lists_practice.ipynb` - This notebook contains questions i practiced on list after asking it from AI that were good and without solutions and i soved most of them myself .
+* `3.2-Tuples.ipynb` - This notebook contains all i learned for tuples , one thing totally new was  packing and unpacking.
+* `tuples_practice_questions.ipynb` - This notebook contains  questions i practiced on tuples, i asked them from Ai and did them without answer .
+* `3.3-Sets.ipynb`- This notebook contains things like set functions , definition etc that i learned about set.
